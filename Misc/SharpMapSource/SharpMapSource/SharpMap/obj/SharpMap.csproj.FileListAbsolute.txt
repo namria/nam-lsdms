@@ -1,0 +1,8 @@
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\bin\Debug\SharpMap.dll
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\bin\Debug\SharpMap.pdb
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\SharpMap.Styles.DefaultSymbol.png
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\SharpMap.Web.Wms.Schemas._1._3._0.capabilities_1_3_0.xsd
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\SharpMap.Web.Wms.Schemas._1._3._0.exceptions_1_3_0.xsd
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\SharpMap.dll
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap\obj\Debug\SharpMap.pdb

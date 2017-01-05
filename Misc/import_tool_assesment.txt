@@ -1,0 +1,23 @@
+FileName		Lot 2125-2134 Cad 409, C-3 R121.xls
+
+	
+Cad Survey No.		C9	CadSurvey.CadSurveyNo		409 C-3
+
+Island			C14	CadSurvey.Island		Mindanao
+
+Mun / City		C12	Municipality.MunicipalityPsgc	Norala
+				CadSurvey.RegionPsgc
+				cadSurveyProvincePsgc		
+
+Barrio			c11	Barangay.BarangayPsgc		Lapuz (B0. 6)
+
+				Case.CaseNo			C-3
+
+				Section.SectionId		???
+
+Lot No.			C7	Lot.LotNo			2127
+
+Date Surveyed		C16	CadSurvey.DateSurveyedFrom	September 4-15, 1978
+
+Declared Area		C19	Lot.DeclaredArea		1595.31
+

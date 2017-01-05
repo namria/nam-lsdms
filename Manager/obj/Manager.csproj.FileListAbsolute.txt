@@ -1,0 +1,99 @@
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 17 2008]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 18 2008]\Manager\obj\Debug\Manager.Login.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\bin\Debug\Manager.exe
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\bin\Debug\Manager.pdb
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.Login.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.MainForm.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\RdlCompile.cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\RdlCompile.compiled
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.exe
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.pdb
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\Manager\obj\Debug\Manager.Reports.EncodedLotsPerUser.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.EncodedLotsPerUser.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.EncodedLotsPerUser.rdlc
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.Reports.EncodedLotsPerUser.rdlc
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.Reports.ReportCustom1.rdlc
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.Reports.ReportLotData.rdlc
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\Manager\obj\Debug\Manager.pdb

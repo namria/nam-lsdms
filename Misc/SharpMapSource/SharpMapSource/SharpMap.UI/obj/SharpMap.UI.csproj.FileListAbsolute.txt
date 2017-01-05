@@ -1,0 +1,8 @@
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\bin\Debug\SharpMap.UI.dll
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\bin\Debug\SharpMap.UI.pdb
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\bin\Debug\SharpMap.dll
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\bin\Debug\SharpMap.pdb
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\obj\Debug\SharpMap.UI.Web.UI.Ajax.AjaxMap.js
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\obj\Debug\SharpMap.UI.dll
+C:\Documents and Settings\ghelo\Desktop\LSDMS\Misc\SharpMapSource\SharpMapSource\SharpMap.UI\obj\Debug\SharpMap.UI.pdb

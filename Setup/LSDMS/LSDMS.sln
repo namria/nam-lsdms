@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LSDMS", "LSDMS.vdproj", "{A4BAC851-D9A5-4097-9FD5-F5B99C465585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BAC851-D9A5-4097-9FD5-F5B99C465585}.Debug|Default.ActiveCfg = Debug
+		{A4BAC851-D9A5-4097-9FD5-F5B99C465585}.Debug|Default.Build.0 = Debug
+		{A4BAC851-D9A5-4097-9FD5-F5B99C465585}.Release|Default.ActiveCfg = Release
+		{A4BAC851-D9A5-4097-9FD5-F5B99C465585}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

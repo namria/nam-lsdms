@@ -1,0 +1,11 @@
+.\bin\Project1.exe
+.\bin\Project1.pdb
+.\bin\Project1.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\test.vbproj.ResolveComReference.cache
+obj\Debug\Project1.frmBLLM.resources
+obj\Debug\Project1.frmNoBllm.resources
+obj\Debug\test.vbproj.GenerateResource.Cache
+obj\Debug\Project1.exe
+obj\Debug\Project1.xml
+obj\Debug\Project1.pdb

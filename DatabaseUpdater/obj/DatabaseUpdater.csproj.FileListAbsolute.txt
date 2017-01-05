@@ -1,0 +1,60 @@
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.exe
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.pdb
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.DropDB.sql
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.AddPRSUser.sql
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.CopyData.sql
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.RestoreDB.sql
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.prs92_blank.bak
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.MainForm.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.Properties.Resources.resources
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.csproj.GenerateResource.Cache
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.exe
+D:\Documents and Settings\ghelo\Desktop\LSDMS [NOV 19 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.DropDB.sql
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.AddPRSUser.sql
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.CopyData.sql
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.RestoreDB.sql
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.prs92_blank.bak
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.MainForm.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.Properties.Resources.resources
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.csproj.GenerateResource.Cache
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\WindowsApps\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.DropDB.sql
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.AddPRSUser.sql
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.CopyData.sql
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.RestoreDB.sql
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.prs92_blank.bak
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.MainForm.resources
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\LSDMS [NOV 25 2008]\DatabaseUpdater\obj\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\bin\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\bin\Debug\DatabaseUpdater.pdb
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.DropDB.sql
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.AddPRSUser.sql
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.CopyData.sql
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.RestoreDB.sql
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.SQL.prs92_blank.bak
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.MainForm.resources
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.exe
+D:\ghelo\Projects\LSDMS [JUL 20 2009]\DatabaseUpdater\obj\Debug\DatabaseUpdater.pdb

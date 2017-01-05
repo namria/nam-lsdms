@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <servers>
+    <DatabaseServer name="(local)\sqlexpress" />
+    <ImageServer name="localhost" />
+  </servers>
+</config>

@@ -1,0 +1,11 @@
+
+11.24.2008	BUG FIX: Special characters causes error in Display of Lots 
+		Replaced 
+			_Quadrangle = quadrangle;
+		with
+			_Quadnrangle = quadrangle.Replace("'","''")
+
+LAST RELEASE: NOV 19 2008
+
+
+08.17.2009	ADDED: Summary of Encoded Lots

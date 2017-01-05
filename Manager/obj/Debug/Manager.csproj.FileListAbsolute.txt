@@ -1,0 +1,120 @@
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\ResolveAssemblyReference.cache
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\AxInterop.Manifold.dll
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.Login.resources
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.MainForm.resources
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\RdlCompile.cache
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\RdlCompile.compiled
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.exe
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\obj\Debug\Manager.pdb
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\bin\Debug\Manager.exe.config
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\bin\Debug\Manager.exe
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\bin\Debug\Manager.pdb
+F:\ghelo\Projects\LSDMS [AUG 17 2009]\Manager\bin\Debug\AxInterop.Manifold.dll
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\bin\Debug\Manager.exe.config
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\AxInterop.Manifold.dll
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.exe
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.pdb
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\bin\Debug\Manager.exe
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\bin\Debug\Manager.pdb
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\bin\Debug\AxInterop.Manifold.dll
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\ResolveAssemblyReference.cache
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.Login.resources
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.MainForm.resources
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\RdlCompile.cache
+F:\ghelo\Projects\LSDMS [AUG 20 2009]\Manager\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\bin\Debug\Manager.exe.config
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\AxInterop.Manifold.dll
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.exe
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.pdb
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\bin\Debug\Manager.exe
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\bin\Debug\Manager.pdb
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\bin\Debug\AxInterop.Manifold.dll
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.Login.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [FEB 09 2010]\Manager\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\bin\Debug\Manager.exe.config
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\AxInterop.Manifold.dll
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.exe
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.pdb
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\bin\Debug\Manager.exe
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\bin\Debug\Manager.pdb
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\bin\Debug\AxInterop.Manifold.dll
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.Login.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Administrator\Desktop\LSDMS [APR 15 2010]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\bin\Debug\Manager.exe.config
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS\LSDMS [JUL 13 2010]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\bin\Debug\Manager.exe.config
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\bin\Debug\Manager.exe
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\Projects\LSDMS\LSDMS [OCT 14 2010]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\bin\Debug\Manager.exe.config
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\bin\Debug\Manager.exe
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.exe
+D:\ghelo\projects\_2011\LSDMS [SEP 11 2012]\Manager\obj\Debug\Manager.pdb
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\bin\Debug\Manager.exe.config
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\bin\Debug\Manager.exe
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\bin\Debug\Manager.pdb
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\bin\Debug\AxInterop.Manifold.dll
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\AxInterop.Manifold.dll
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.csproj.ResolveComReference.cache
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.Login.resources
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.MainForm.resources
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\RdlCompile.cache
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\RdlCompile.compiled
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.exe
+D:\ghelo\projects\_2011\LSDMS [JUL 11 2013]\Manager\obj\Debug\Manager.pdb

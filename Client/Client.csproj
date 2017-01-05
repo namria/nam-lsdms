@@ -1,0 +1,229 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2E5DBB1F-77D9-485D-B747-AC5D2CB13983}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LSDMS</RootNamespace>
+    <AssemblyName>LSDMS</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>picture1.ico</ApplicationIcon>
+    <Win32Resource>
+    </Win32Resource>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=3.0.8.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL" />
+    <Reference Include="SharpMap, Version=0.9.3091.26516, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="SharpMap.UI, Version=0.9.3091.26516, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangeParentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeParentForm.Designer.cs">
+      <DependentUpon>ChangeParentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetValidator.cs" />
+    <Compile Include="DeletePrompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePrompt.Designer.cs">
+      <DependentUpon>DeletePrompt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialogCentralMeridian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogCentralMeridian.Designer.cs">
+      <DependentUpon>DialogCentralMeridian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtendedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LsdmsDataSet.cs">
+      <DependentUpon>LsdmsDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LsdmsDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LsdmsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GheloBytes.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MergeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MergeForm.Designer.cs">
+      <DependentUpon>MergeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="LsdmsDataSet.xsc">
+      <DependentUpon>LsdmsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LsdmsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LsdmsDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LsdmsDataSet.xss">
+      <DependentUpon>LsdmsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Psgc.xsc">
+      <DependentUpon>Psgc.xsd</DependentUpon>
+    </None>
+    <None Include="Psgc.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Psgc.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Psgc.xss">
+      <DependentUpon>Psgc.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Psgc.cs">
+      <DependentUpon>Psgc.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Psgc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Psgc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="StepHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\cancel.gif" />
+    <Content Include="Images\data.gif" />
+    <Content Include="Images\map.png" />
+    <Content Include="Images\right.gif" />
+    <Content Include="Images\save.gif" />
+    <Content Include="Images\search.gif" />
+    <Content Include="Images\trash.gif" />
+    <Content Include="Misc\app.gif" />
+    <Content Include="Misc\right.gif" />
+    <Content Include="picture1.ico" />
+    <Content Include="Resources\copy.png" />
+    <None Include="Resources\zoomLot.png" />
+    <None Include="Resources\zoomExtent.png" />
+    <None Include="Resources\zoomOut.png" />
+    <EmbeddedResource Include="ChangeParentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChangeParentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePrompt.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DeletePrompt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogCentralMeridian.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DialogCentralMeridian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MergeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MergeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symbol\point1.png" />
+    <None Include="Resources\header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
